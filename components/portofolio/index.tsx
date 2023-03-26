@@ -190,11 +190,10 @@ const navItem3tag = [
   "React js",
   "Next js",
   "Tailwind Css",
-  "css",
   "Chakura ui",
   "Framer Motion",
   "Api's",
-  "Strapi",
+  "Sanity",
   "Vercel",
 ];
 const navItem3 = {
@@ -202,6 +201,6 @@ const navItem3 = {
   para: " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat qui, maiores velit eligendi totam nemo nesciunt consequuntur provident. Nam, officiis.",
   image: "/share.png",
   githubhref: "/",
-  livepreviewhref: "/",
-  new: "NEW IN FUTURE",
+  livepreviewhref: "https://muzammil-blog.vercel.app/",
+  new: "",
 };

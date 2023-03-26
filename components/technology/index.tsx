@@ -146,4 +146,10 @@ const NAV_ITEMS: Array<NavItem> = [
     img: "/skill/data/sheet.webp",
     link: "/sheet",
   },
+  {
+    id: 10,
+    para: "Sanity",
+    img: "/skill/Sanity.jpg",
+    link: "/sheet",
+  },
 ];
